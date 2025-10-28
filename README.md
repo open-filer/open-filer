@@ -1,16 +1,98 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90" />
+</p>
 
-<!--
-**open-filer/open-filer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social Icons -->
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+<p>
+  I'm Kritagya Singh, a passionate developer based in New Delhi. I enjoy building creative and efficient solutions with a focus on clean code and great user experiences. I'm currently exploring new technologies and always eager to learn and collaborate on exciting projects.
+</p>
+
+---
+
+### 💻 My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=dark" alt="Kritagya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 My Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Ghibli</h3>
+      <p align="center">
+        A Python-based project that does something amazing. (<em>Add a brief, engaging description of your project here.</em>)
+        <br>
+        <a href="https://github.com/open-filer/ghibli">View Project</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">EnnovateX</h3>
+      <p align="center">
+        An innovative Java application. (<em>Add a brief, engaging description of your project here.</em>)
+        <br>
+        <a href="https://github.com/open-filer/ennovateX">View Project</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Arelia</h3>
+      <p align-center>
+        A dynamic JavaScript project. (<em>Add a brief, engaging description of your project here.</em>)
+        <br>
+        <a href="https://github.com/open-filer/Arelia">View Project</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Open Filer</h3>
+      <p align-center>
+        (<em>Add a brief, engaging description of your project here.</em>)
+        <br>
+        <a href="https://github.com/open-filer/open-filer">View Project</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=open-filer&theme=dracula" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=open-filer&label=Profile%20views&color=brightgreen" alt="Profile views" />
+</p>
