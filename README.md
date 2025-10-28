@@ -24,7 +24,11 @@ Right now, I’m on a mission to level up one project at a time — no templates
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git&theme=light" />
+      <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git&theme=light" />
+    </picture>
   </a>
 </p>
 
@@ -33,12 +37,24 @@ Right now, I’m on a mission to level up one project at a time — no templates
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=dark" alt="Kritagya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=dark" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=default" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=dark" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=default" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=default" />
+  </picture>
 </p>
 
 ---
