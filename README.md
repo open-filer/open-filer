@@ -14,7 +14,8 @@
 ### About Me
 
 <p>
-  I'm Kritagya Singh, a passionate developer based in New Delhi. I enjoy building creative and efficient solutions with a focus on clean code and great user experiences. I'm currently exploring new technologies and always eager to learn and collaborate on exciting projects.
+  Hey, I’m Kritagya Singh — a Delhi-based developer who lives somewhere between clean code and chaos. I love bending tech to my will, from cloud automation to AI models that actually think.
+Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
 </p>
 
 ---
