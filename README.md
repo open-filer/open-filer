@@ -15,22 +15,91 @@
 
 <p>
   Hey, I’m Kritagya Singh — a Delhi-based developer who lives somewhere between clean code and chaos. I love bending tech to my will, from cloud automation to AI models that actually think.
-Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
+  <br>
+  Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
 </p>
 
 ---
 
 ### 💻 My Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git&theme=light" />
-      <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git&theme=light" />
-    </picture>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Web</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,flask,fastapi" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AI / ML</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+      </a>
+      <img src="https://img.shields.io/badge/Tesseract--OCR-000000?style=for-the-badge&logo=ocaml&logoColor=white" alt="Tesseract OCR">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud / DevOps</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,github,docker" />
+      </a>
+      <img src="https://img.shields.io/badge/CI%2FCD-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Hardware / IoT</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" />
+      </a>
+      <img src="https://img.shields.io/badge/ESP32-E7322E?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>OS & Scripting</strong></td>
+    <td>
+        <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server">
+        <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
+        <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><strong>Automation</strong></td>
+    <td>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Collaboration</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=slack,canva" />
+      </a>
+      <img src="https://img.shields.io/badge/Google%20Drive-4A8DF4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,12 +109,12 @@ Right now, I’m on a mission to level up one project at a time — no templates
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true&theme=default" />
+    <img alt="Kritagya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=open-filer&show_icons=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact&theme=default" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=open-filer&layout=compact" />
   </picture>
 </p>
 
@@ -53,7 +122,7 @@ Right now, I’m on a mission to level up one project at a time — no templates
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=default" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=open-filer&theme=default" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=open-filer" />
   </picture>
 </p>
 
@@ -83,7 +152,7 @@ Right now, I’m on a mission to level up one project at a time — no templates
   <tr>
     <td width="50%">
       <h3 align="center">Arelia</h3>
-      <p align-center>
+      <p align="center">
         A dynamic JavaScript project. (<em>Add a brief, engaging description of your project here.</em>)
         <br>
         <a href="https://github.com/open-filer/Arelia">View Project</a>
@@ -91,7 +160,7 @@ Right now, I’m on a mission to level up one project at a time — no templates
     </td>
     <td width="50%">
       <h3 align="center">Open Filer</h3>
-      <p align-center>
+      <p align="center">
         (<em>Add a brief, engaging description of your project here.</em>)
         <br>
         <a href="https://github.com/open-filer/open-filer">View Project</a>
@@ -105,7 +174,11 @@ Right now, I’m on a mission to level up one project at a time — no templates
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=open-filer&theme=dracula" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=open-filer&theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=open-filer&theme=default" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=open-filer" />
+  </picture>
 </p>
 
 ---
