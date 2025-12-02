@@ -1,27 +1,34 @@
-<!-- Banner Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90" />
 </p>
 
-<!-- Social Icons -->
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
+</picture>
+
+---
 
 ### About Me
 
 <p>
-  Hey, I’m Kritagya Singh — a Delhi-based developer who lives somewhere between clean code and chaos. I love bending tech to my will, from cloud automation to AI models that actually think.
+  Hey, I’m Kritagya Singh — a developer who lives somewhere between clean code and chaos. I love bending tech to my will, from cloud automation to AI models that actually think.
   <br>
   Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
 </p>
 
 ---
 
-### 💻 My Tech Stack
+### 💻 My Tech Stack ( the stack is about to fall )
 
 <table>
   <tr>
@@ -90,15 +97,6 @@
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
     </td>
   </tr>
-  <tr>
-    <td align="center"><strong>Collaboration</strong></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=slack,canva" />
-      </a>
-      <img src="https://img.shields.io/badge/Google%20Drive-4A8DF4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive">
-    </td>
-  </tr>
 </table>
 
 ---
@@ -133,37 +131,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Ghibli</h3>
+      <h3 align="center">Cargo Shipment Tracker</h3>
       <p align="center">
-        A Python-based project that does something amazing. (<em>Add a brief, engaging description of your project here.</em>)
+        A MERN project that does something amazing. (<em> Someone asked me to make this </em>)
         <br>
-        <a href="https://github.com/open-filer/ghibli">View Project</a>
+        <a href="https://github.com/open-filer/Cargo-Shipment-Tracker">View Project</a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">EnnovateX</h3>
-      <p align="center">
-        An innovative Java application. (<em>Add a brief, engaging description of your project here.</em>)
-        <br>
-        <a href="https://github.com/open-filer/ennovateX">View Project</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Arelia</h3>
       <p align="center">
-        A dynamic JavaScript project. (<em>Add a brief, engaging description of your project here.</em>)
+        A dynamic JavaScript project. (<em>My incomplete SIH project T_T</em>)
         <br>
         <a href="https://github.com/open-filer/Arelia">View Project</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Open Filer</h3>
-      <p align="center">
-        (<em>Add a brief, engaging description of your project here.</em>)
-        <br>
-        <a href="https://github.com/open-filer/open-filer">View Project</a>
       </p>
     </td>
   </tr>
@@ -181,8 +161,7 @@
   </picture>
 </p>
 
----
-
+ ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=open-filer&label=Profile%20views&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=open-filer&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
