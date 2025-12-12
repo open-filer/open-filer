@@ -3,24 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/kritagya-s-8b4362300/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
 </p>
 
 ---
-### Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
-</picture>
-
----
-
-### About Me
+### About Me 🌸
 
 <p>
+  <img align="right" height="150" src="https://i.imgflip.com/aetdkc.jpg" title="made at imgflip.com"/>
+
   Hey, I’m Kritagya Singh — a developer who lives somewhere between clean code and chaos. I love bending tech to my will, from cloud automation to AI models that actually think.
   <br>
   Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
@@ -28,7 +25,7 @@
 
 ---
 
-### 💻 My Tech Stack ( the stack is about to fall )
+### My Tech Stack ( the stack is about top fall ) 
 
 <table>
   <tr>
@@ -93,7 +90,8 @@
     <tr>
     <td align="center"><strong>Automation</strong></td>
     <td>
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+        <img width="12">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"  alt="Selenium">        
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
     </td>
   </tr>
@@ -101,7 +99,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 🌟 My GitHub Stats ( I am Prometheus ) 
 
 <p align="center">
   <picture>
@@ -126,7 +124,7 @@
 
 ---
 
-### 🚀 My Projects
+### Unicorn Projects 🧠
 
 <table>
   <tr>
@@ -148,20 +146,34 @@
     </td>
   </tr>
 </table>
+  
+### Contributions 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-filer/open-filer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/open-filer/open-filer/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/open-filer/open-filer/output/github-snake.svg" />
+</picture>
+
+---
+### Profile views 👁️👁️
+<p>
+  <div align="center">
+    <img src="https://count.getloli.com/@:open-filer?theme=asoul&padding&scale=1.5&align=center&offset=10&pixelated=1&darkmode=auto&num=5480"  />
+  </div>
+<p>
 
 ---
 
-### 🏆 GitHub Trophies
+### Listen with me... 🎶
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=open-filer&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=open-filer&theme=default" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=open-filer" />
-  </picture>
-</p>
+<div align="center">
+  <a href="https://open.spotify.com/user/31n4v475w2ss2olvh2y3a6uuldo4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n4v475w2ss2olvh2y3a6uuldo4&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
- ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=open-filer&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=25&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
