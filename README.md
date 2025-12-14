@@ -22,6 +22,7 @@
   <br>
   Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
 </p>
+<br clear="true"/>
 
 ---
 
@@ -162,17 +163,6 @@
     <img src="https://count.getloli.com/@:open-filer?theme=asoul&padding&scale=1.5&align=center&offset=10&pixelated=1&darkmode=auto&num=5480"  />
   </div>
 <p>
-
----
-
-### Listen with me... 🎶
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31n4v475w2ss2olvh2y3a6uuldo4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n4v475w2ss2olvh2y3a6uuldo4&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=25&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
