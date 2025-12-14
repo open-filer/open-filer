@@ -23,7 +23,7 @@
   Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
 </p>
 
-<br clear="true"/>
+<br clear="all"/>
 
 ---
 
