@@ -16,7 +16,7 @@
 ### About Me 🌸
 
 <p>
-  <img align="right" height="150" src="https://i.imgflip.com/aetdkc.jpg" title="made at imgflip.com"/>
+  <img align="right" height="200" src="https://i.imgflip.com/aetdkc.jpg" title="made at imgflip.com"/>
 
   Hey, I’m Kritagya Singh — a developer who lives somewhere between clean code and chaos. I love bending tech to my will, from cloud automation to AI models that actually think.
   <br>
