@@ -163,7 +163,7 @@
 ### Profile views 👁️👁️
 <p>
   <div align="center">
-    <img src="https://count.getloli.com/@:open-filer?theme=asoul&padding&scale=1.5&align=center&offset=10&pixelated=1&darkmode=auto&num=5480"  />
+    <img src="https://count.getloli.com/@:open-filer?theme=asoul&padding&scale=1.5&align=center&offset=10&pixelated=1&darkmode=auto"  />
   </div>
 <p>
 
