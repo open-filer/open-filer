@@ -9,6 +9,9 @@
   <a href="https://twitter.com/YOUR_USERNAME">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+  <a href="mailto:kritagya.singh.dev@gmial.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
+  </a>
 </p>
 
 ---
@@ -17,7 +20,6 @@
 
 <p>
   <img align="right" height="200" src="https://i.imgflip.com/aetdkc.jpg" title="made at imgflip.com"/>
-
   Hey, I’m Kritagya Singh — a developer who lives somewhere between clean code and chaos. I love bending tech to my will, from cloud automation to AI models that actually think.
   <br>
   Right now, I’m on a mission to level up one project at a time — no templates, no shortcuts, just pure logic, curiosity, and late-night experiments.
