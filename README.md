@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/kritagya-s-8b4362300/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <!-- <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /> -->
   </a>
   <a href="mailto:kritagya.singh.dev@gmial.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
@@ -29,14 +27,14 @@
 
 ---
 
-### My Tech Stack ( the stack is about top fall ) 
+### My Tech Stack ( the stack is about to fall ) 
 
 <table>
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql" />
+        <img src="https://skillicons.dev/icons?i=python,c,javascript,ts,html,tailwind" />
       </a>
     </td>
   </tr>
@@ -44,7 +42,7 @@
     <td align="center"><strong>Web</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,flask,fastapi" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,vue,flask,fastapi,yarn" />
       </a>
     </td>
   </tr>
@@ -52,18 +50,16 @@
     <td align="center"><strong>AI / ML</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab,opencv" />
       </a>
-      <img src="https://img.shields.io/badge/Tesseract--OCR-000000?style=for-the-badge&logo=ocaml&logoColor=white" alt="Tesseract OCR">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Cloud / DevOps</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,github,docker" />
+        <img src="https://skillicons.dev/icons?i=cloudflare,workers,aws,github,docker,npm" />
       </a>
-      <img src="https://img.shields.io/badge/CI%2FCD-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
     </td>
   </tr>
   <tr>
@@ -78,32 +74,33 @@
   <tr>
     <td align="center"><strong>OS & Scripting</strong></td>
     <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=arch" />
+        </a>
         <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server">
-        <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-        <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Database</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase" />
+        <img src="https://skillicons.dev/icons?i=supabase,sqlite,mysql,firebase,mongodb" />
       </a>
     </td>
   </tr>
     <tr>
     <td align="center"><strong>Automation</strong></td>
     <td>
-        <img width="12">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"  alt="Selenium">        
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=githubactions,selenium" />
+        </a>        
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 My GitHub Stats ( I am Prometheus ) 
+### 🌟 My GitHub Stats
 
 <p align="center">
   <picture>
@@ -128,24 +125,28 @@
 
 ---
 
-### Unicorn Projects 🧠
+### Live Projects 🧠
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">Cargo Shipment Tracker</h3>
-      <p align="center">
-        A MERN project that does something amazing. (<em> Someone asked me to make this </em>)
+    <td width="50%" valign="top" align="center">
+      <h3>Cargo Shipment Tracker</h3>
+      <p>
+        AI-Assisted Endoscopic Insight (<em>Uses custom model made from scratch</em>)
         <br>
-        <a href="https://github.com/open-filer/Cargo-Shipment-Tracker">View Project</a>
+        <a href="https://github.com/open-filer/gastroVision">Repo</a>
+        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="https://gastrovision.pages.dev">Website</a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Arelia</h3>
-      <p align="center">
-        A dynamic JavaScript project. (<em>My incomplete SIH project T_T</em>)
+    <td width="50%" valign="top" align="center">
+      <h3>Interpolator</h3>
+      <p>
+        Frame generation from h5 files (<em>Bharatiya Antariksh Hackathon project<em>)
         <br>
-        <a href="https://github.com/open-filer/Arelia">View Project</a>
+        <a href="https://github.com/open-filer/isro-thermoflow">Repo</a>
+        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="https://interpolator.pages.dev">Website</a>
       </p>
     </td>
   </tr>
