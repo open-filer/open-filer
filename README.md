@@ -130,7 +130,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Cargo Shipment Tracker</h3>
+      <h3>GastroVision</h3>
       <p>
         AI-Assisted Endoscopic Insight (<em>Uses custom model made from scratch</em>)
         <br>
